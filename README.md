@@ -5,7 +5,7 @@ Project Background: This is famous dataset in UCI Machine Learning Repository. T
 
 Goal: Executed classification models using Python to help business partner select target customer for Ad Campaign to maximize profit.
 
-Major Business Insights:
+Major Business Insights:<br>
 1.cost analysis: utilize confusion matrix by assigning weight to true negative and false positive counts can help identify true cost to business<br>
 2.cut-off analysis: according to business goal (maximize which metric), utilize cut-off analysis on ROC curve<br>
 2.customer ranking: utilize cumulative gains curve can help choose people with highest probability to subscribe the term deposit
